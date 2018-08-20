@@ -11,6 +11,6 @@ function forLoop(array) {
 
 function whileLoop(number) {
   number = 0;
-  while(number < 100)
+  while(countdown > 0)
   
 }
